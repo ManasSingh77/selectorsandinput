@@ -1,0 +1,29 @@
+/* using a tag */
+body{
+    background-color:khaki;
+    text-align: center;
+}
+/* Using a class */
+.yo{
+    color:red;
+}
+/* using a id */
+#manas{
+    color:blue;
+}
+.container{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:purple;
+    text-align: center;
+}
+input[type="text"]{
+    background-color: orange;
+}
+input[type="number"]{
+    background-color: orange;
+}
+input[type="dob"]{
+    background-color: orange;
+    text-align: center;
+}
